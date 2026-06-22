@@ -1,0 +1,8 @@
+Permitir que las comunidades registren y consulten incidencias en una plataforma tecnológica es fundamental porque transforma la participación ciudadana en un ejercicio transparente,
+eficiente y basado en datos reales. Al centralizar los reportes bajo una estructura organizada, se eliminan los canales informales donde la información suele perderse, 
+permitiendo una clasificación automática que agiliza los tiempos de respuesta de las autoridades encargadas. Asimismo, la posibilidad de consultar el histórico público de reportes fomenta la auditoría social, 
+evita la duplicidad de quejas sobre un mismo problema y genera un entorno de confianza mutua.
+A mediano plazo, esta acumulación de datos comunitarios permite identificar patrones de vulnerabilidad o fallas recurrentes, 
+facilitando que los tomadores de decisiones pasen de una gestión puramente reactiva a una planificación preventiva y estratégica de los recursos.
+En definitiva, estas herramientas digitales democratizan la información local, empoderan al ciudadano en la defensa de sus derechos y cierran la brecha de comunicación para mejorar el entorno de forma colectiva.
+Es decir: Permitir que las comunidades registren y consulten incidencias en una plataforma tecnológica es clave para democratizar la atención ciudadana y garantizar que los recursos se distribuyan con equidad y justicia social.

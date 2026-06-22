@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
+
+El código permite crear una base de datos con cada una de las publicaciones que se envian 
+mediante "POST", cada una las enumera dependiendo del orden en que se publiquen
