@@ -1,0 +1,7 @@
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió los datos que le envíe, para posteriormente publicarlos en la página web

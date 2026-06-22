@@ -1,0 +1,8 @@
+Que las plataformas tecnológicas reciban reportes ciudadanos de forma estructurada es fundamental porque automatiza el procesamiento de datos, 
+reduce los tiempos de respuesta y optimiza la toma de decisiones. 
+Al canalizar la información a través de campos específicos (como categorías predefinidas, 
+ubicación exacta o imágenes), se elimina la ambigüedad del lenguaje natural, lo que permite a los algoritmos clasificar 
+y priorizar las incidencias de manera inmediata. 
+Esto no solo facilita que las autoridades u organizaciones gestionen los recursos de forma más eficiente y transparente, 
+sino que también permite generar estadísticas claras para identificar patrones y prevenir problemas futuros, 
+transformando la participación ciudadana en una herramienta verdaderamente accionable.
